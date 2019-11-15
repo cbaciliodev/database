@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entitity
 {
-    class Cargo
+    public class Cargo
     {
         public int ICodigo_Cargo { get; set; }
         public string VConcepto_Cargo { get; set; }

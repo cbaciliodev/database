@@ -1,4 +1,5 @@
-﻿using Model;
+﻿using Entitity;
+using Model;
 using Negocios;
 using System;
 using System.Collections.Generic;
@@ -10,21 +11,19 @@ namespace Vista
 
     public partial class Default : Page
     {
-        ClienteService service = new ClienteService();
-        Cliente cliente = new Cliente();
+        CargoService service = new CargoService();
+        Cargo objCargo = new Cargo();
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            int _codigo = 1;
+            objCargo = service.GetCargoById(_codigo);
 
-            int _codigo = 1; 
-            cliente = service.GetClienteById(_codigo);
-
-            codigo.Text = cliente.Codigo + "";
-            nombre.Text = cliente.Nombre;
-            cuidad.Text = cliente.Ciudad;
-            direccion.Text = cliente.Direccion;
-            telefono.Text = cliente.Telefono;
-            
+            codigo.Text = objCargo.ICodigo_Cargo + "";
+            nombre.Text = objCargo.VConcepto_Cargo;
+            cuidad.Text = objCargo.VConcepto_Cargo;
+            direccion.Text = objCargo.VConcepto_Cargo;
+            telefono.Text = objCargo.VConcepto_Cargo;         
         }
     }
 }
