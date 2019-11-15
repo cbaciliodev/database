@@ -1,0 +1,4 @@
+D:\universidad\base de datos\proyecto\database\Entitity\bin\Debug\Entitity.dll
+D:\universidad\base de datos\proyecto\database\Entitity\bin\Debug\Entitity.pdb
+D:\universidad\base de datos\proyecto\database\Entitity\obj\Debug\Entitity.dll
+D:\universidad\base de datos\proyecto\database\Entitity\obj\Debug\Entitity.pdb

@@ -1,0 +1,8 @@
+D:\universidad\base de datos\proyecto\database\Datos\bin\Debug\Datos.dll
+D:\universidad\base de datos\proyecto\database\Datos\bin\Debug\Datos.pdb
+D:\universidad\base de datos\proyecto\database\Datos\bin\Debug\Entitity.dll
+D:\universidad\base de datos\proyecto\database\Datos\bin\Debug\Entitity.pdb
+D:\universidad\base de datos\proyecto\database\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\universidad\base de datos\proyecto\database\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\universidad\base de datos\proyecto\database\Datos\obj\Debug\Datos.dll
+D:\universidad\base de datos\proyecto\database\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,10 @@
+D:\universidad\base de datos\proyecto\database\Negocio\bin\Debug\Negocio.dll
+D:\universidad\base de datos\proyecto\database\Negocio\bin\Debug\Negocio.pdb
+D:\universidad\base de datos\proyecto\database\Negocio\bin\Debug\Datos.dll
+D:\universidad\base de datos\proyecto\database\Negocio\bin\Debug\Entitity.dll
+D:\universidad\base de datos\proyecto\database\Negocio\bin\Debug\Datos.pdb
+D:\universidad\base de datos\proyecto\database\Negocio\bin\Debug\Entitity.pdb
+D:\universidad\base de datos\proyecto\database\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\universidad\base de datos\proyecto\database\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\universidad\base de datos\proyecto\database\Negocio\obj\Debug\Negocio.dll
+D:\universidad\base de datos\proyecto\database\Negocio\obj\Debug\Negocio.pdb
