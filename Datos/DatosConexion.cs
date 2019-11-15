@@ -11,7 +11,9 @@ namespace Model
         {
             get
             {
-                return @"Data Source=LENOVO;Initial Catalog=TALLER;Integrated Security=True";
+                //return @"Data Source=LENOVO;Initial Catalog=TALLER;Integrated Security=True";
+                return @"Data Source = LENOVO; Initial Catalog = db_reunion; Integrated Security = True";
+                
             }
         }
         public string Source { get; set; }
